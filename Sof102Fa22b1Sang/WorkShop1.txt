@@ -1,0 +1,10 @@
+chủ đề : Web xem phim  nghe nhạc 
+who : mọi người
+why : giải trí tạo thu nhập từ việc k lấy tiền quảng cáo thông qua nhà tài trợ 
+when : mọi lúc mọi nơi vào khi rảnh rổi
+how : trên thị trường hiện đang có 1 ứng dụng dụng đã từng hot vì có thể chặn quảng cáo trên ytb 1 cách hiệu quả nhưng việc này đem lại mất mát cho ng đc nhận quảng cáo.
+về cơ bản nó sẽ không miễn phí mà chỉ giới hạn trong 10 videos đầu tiên của người dùng sau đó thì sẽ thu phí  với mức 
+phí khá cao. trang web nghe nhạc này là tạo ra nhằm mục đích tạo thêm thu nhập cho người sử dụng và nó liên kết với cả ytb 
+thời lượng của quảng cáo sẽ được giới hạn dưới 15s để không gây khó chịu cho người sử dụng và chỉ được lặp lại 2 lần trong 1 video.
+	
+what : Web xem phim  nghe nhạc 
